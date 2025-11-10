@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img95.pixhost.to/images/1083/472612217_8876.jpg" width="350" height="350"/>
+<code>Projeto feito para auxiliar a comunidade FullDev utilizando um bot público customizado para servir aos grupos de WhatsApp da comunidade!</code>
 </p>
 <h1 align="center">🤖 LBot - Robô para WhatsApp 🤖</h1>
 <p align="center">
